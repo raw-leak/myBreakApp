@@ -48,6 +48,7 @@ User can:
 ### Data model
 ![Data model](img/data-model.jpg)
 
+
 ### Code Coverage
 ####  API logic
 ![Coverage Api logic](img/coverage-api-logic.jpg)
