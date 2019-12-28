@@ -11,7 +11,7 @@
   "author": "Mykhaylo Gusak",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.5.11"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "chai": "^4.2.0",
