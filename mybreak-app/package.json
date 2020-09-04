@@ -16,7 +16,7 @@
     "dotenv": "^8.0.0",
     "mybreak-utils": "file:../mybreak-utils",
     "node-fetch": "2.6.0",
-    "node-sass": "4.12.0",
+    "node-sass": "4.13.1",
     "ow": "0.13.2",
     "qrcode": "^1.3.3",
     "react": "16.8.6",
